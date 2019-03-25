@@ -17,7 +17,7 @@ class App extends Component {
               <li><i className="fas fa-envelope"></i>test@acme.test</li>
             </ul>
           </div>
-          <div className="Contact">
+          <div className="contact">
           <h3>Email Us</h3>
           <form>
             <p>
